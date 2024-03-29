@@ -1,4 +1,11 @@
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+
+<h1 align='center'>
+Hi there, I'm Jerome 👋
+</h1>
+
+- 🔭 I’m currently working on Linux System Development
+- 🌱 I’m currently learning Kotlin
+- ⚡ Fun fact: I spend most of my rest time reading books and searching new tech. When dev my project? :-)
 
 ## Skills
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
@@ -19,13 +26,13 @@
 ## Workflow Platforms
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
-### Hi there 👋
-<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeplanets&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+## GitHub
+<a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeplanets&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeplanets&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 <!--
 **codeplanets/codeplanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  <img src=""> 
+  <img src=""> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeplanets&theme=blue-green"/>
 Here are some ideas to get you started:
 
