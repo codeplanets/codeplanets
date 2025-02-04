@@ -4,7 +4,7 @@ Hi there, I'm Jerome 👋
 </h1>
 
 - 🔭 I’m currently working on Linux System Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I spend most of my rest time reading books and searching new tech. When dev my project? :-)
 
 ## Skills
